@@ -1,3 +1,4 @@
 #WAVE example
 
-A test repository for the WAVE example service
+A test repository that implements automation of the WAVE accessibility tool
+
